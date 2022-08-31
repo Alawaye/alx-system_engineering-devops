@@ -1,1 +1,1 @@
-delte dir
+previous dir
