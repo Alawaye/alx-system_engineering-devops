@@ -1,2 +1,2 @@
 #!/bin/bash
-ech0 $((10#DECIMAL))
+ech0 $(([##10]DECIMAL))
