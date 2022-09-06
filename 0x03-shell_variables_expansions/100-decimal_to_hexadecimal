@@ -1,2 +1,2 @@
 #!/bin/bash
-ech0 $(([##10]DECIMAL))
+printf '%x\n' $DECIMAL
